@@ -1,0 +1,16 @@
+{
+  "name": "my-graphql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zarniphyo/my-graphql-server.git",
+  "author": "Zarni Phyo <zarniphyo95@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "babel-register": "^6.24.0",
+    "express": "^4.15.2"
+  }
+}
